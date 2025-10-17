@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ShopEase - E-commerce Platform
 
 A comprehensive e-commerce platform built with React, TypeScript, Node.js, Express, and MongoDB. This project features a modern, responsive design with full-featured shopping cart, user authentication, admin dashboard, and more.
@@ -239,3 +240,6 @@ If you encounter any issues or have questions, please:
 ---
 
 Built with ❤️ using modern web technologies
+=======
+# e-commerce
+>>>>>>> c420daf84db5f66aa098a21cc83e5bc964551c32
